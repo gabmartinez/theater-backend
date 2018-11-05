@@ -1,0 +1,13 @@
+.idea
+.settings
+.vscode
+target
+.classpath
+.project
+mvnw
+mvnw.cmd
+*.iml
+*.env
+.DS_Store
+*.sql
+*.properties
